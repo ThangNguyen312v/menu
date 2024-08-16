@@ -1,0 +1,14 @@
+E:\menu\bin\Debug\net8.0\menu.exe
+E:\menu\bin\Debug\net8.0\menu.deps.json
+E:\menu\bin\Debug\net8.0\menu.runtimeconfig.json
+E:\menu\bin\Debug\net8.0\menu.dll
+E:\menu\bin\Debug\net8.0\menu.pdb
+E:\menu\obj\Debug\net8.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+E:\menu\obj\Debug\net8.0\menu.AssemblyInfoInputs.cache
+E:\menu\obj\Debug\net8.0\menu.AssemblyInfo.cs
+E:\menu\obj\Debug\net8.0\menu.csproj.CoreCompileInputs.cache
+E:\menu\obj\Debug\net8.0\menu.dll
+E:\menu\obj\Debug\net8.0\refint\menu.dll
+E:\menu\obj\Debug\net8.0\menu.pdb
+E:\menu\obj\Debug\net8.0\menu.genruntimeconfig.cache
+E:\menu\obj\Debug\net8.0\ref\menu.dll
